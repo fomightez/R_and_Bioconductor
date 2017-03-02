@@ -33,4 +33,5 @@ But that table is flawed in my view. See above.
 
 Related
 -------
-[Bioinformatics Software Compatibility](COMING SOON)
+
+[Bioinformatics Software Compatibility](http://bioinformatics-software-compatibility.readthedocs.io/en/latest/)
